@@ -1,0 +1,125 @@
+{
+    "questions":[
+        {
+            "id":"1",
+            "questionDescription":"He pierced the balloon with a pin",
+            "options":[{
+                "id":"A",
+                "option":"Stabbed",
+                "isCorrect":false
+            },{
+                "id":"B",
+                "option":"Pricked",
+                "isCorrect":false
+            },{
+                "id":"C",
+                "option":"Penetrated",
+                "isCorrect":false
+            },{
+                "id":"D",
+                "option":"Burst",
+                "isCorrect":false
+            }]
+        },{
+            "id":"2",
+            "questionDescription":"The mother hummed softly as she rocked the baby to sleep",
+            "options":[{
+                "id":"A",
+                "option":"Chanted",
+                "isCorrect":false
+            },{
+                "id":"B",
+                "option":"Crooned",
+                "isCorrect":false
+            },{
+                "id":"C",
+                "option":" Intoned",
+                "isCorrect":false
+            },{
+                "id":"D",
+                "option":" Whispered",
+                "isCorrect":false
+            }]
+        },{
+            "id":"3",
+            "questionDescription":"His letter fuelled my doubts.",
+            "options":[{
+                "id":"A",
+                "option":"Ended",
+                "isCorrect":false
+            },{
+                "id":"B",
+                "option":"Increased",
+                "isCorrect":false
+            },{
+                "id":"C",
+                "option":"Caused",
+                "isCorrect":false
+            },{
+                "id":"D",
+                "option":"Reaffirmed",
+                "isCorrect":false
+            }]
+        },{
+            "id":"4",
+            "questionDescription":"'To come to the fore' means to become__________.",
+            "options":[{
+                "id":"A",
+                "option":"prominent",
+                "isCorrect":false
+            },{
+                "id":"B",
+                "option":"aggressive",
+                "isCorrect":false
+            },{
+                "id":"C",
+                "option":"weak",
+                "isCorrect":false
+            },{
+                "id":"D",
+                "option":"aware",
+                "isCorrect":false
+            }]
+        },{
+            "id":"5",
+            "questionDescription":"On one's toes' signifies _______",
+            "options":[{
+                "id":"A",
+                "option":"Concentration",
+                "isCorrect":false
+            },{
+                "id":"B",
+                "option":"courtesy",
+                "isCorrect":false
+            },{
+                "id":"C",
+                "option":"Punctuality",
+                "isCorrect":false
+            },{
+                "id":"D",
+                "option":"alertness",
+                "isCorrect":false
+            }]
+        },{
+            "id":"6",
+            "questionDescription":"'To make headway' is to ____________.",
+            "options":[{
+                "id":"A",
+                "option":"Make progress",
+                "isCorrect":false
+            },{
+                "id":"B",
+                "option":"make little progress",
+                "isCorrect":false
+            },{
+                "id":"C",
+                "option":"to progress towards collision",
+                "isCorrect":false
+            },{
+                "id":"D",
+                "option":"to",
+                "isCorrect":false
+            }]
+        }
+    ]
+}
